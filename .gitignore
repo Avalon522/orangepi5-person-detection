@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+*.onnx
+*.rknn
+*.log
+alerts.jsonl
+images/
+results/
+logs/
+.env
+config.local.json
+*_backup_*.py
+*_backup_*.html
